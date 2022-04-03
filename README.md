@@ -6,7 +6,8 @@
 
 The Accurcy was so close in KA64 N 0099 Because of font style , 0 as taken as G in the result.
 
-And still working on it get accurcy of image reading to increase
+And still working on it to 
+achieve accurcy of image reading.
 
 
 ![download](https://user-images.githubusercontent.com/98209578/161414969-8cf34825-04b8-47ad-b991-d530b10e93a7.png)
